@@ -1,6 +1,6 @@
 # Instruções para rodar código:
 
-### 1 - rodar o script "edulivre.sql" o qual esta localizado em "EduLivre/src/main/resourses", neste terá já alguns registros prontos(usuários, cursos, comentários, matrículas);
+1 - rodar o script "edulivre.sql" o qual esta localizado em "EduLivre/src/main/resourses", neste terá já alguns registros prontos(usuários, cursos, comentários, matrículas);
 
 2 - após conectar ao BD "edulivre", rodar o código através do arquivo "EduLivre/src/main/java/apresentacao/Main.java" ondde no console abrirá um menu com opçõies;
 
@@ -10,6 +10,4 @@
   
   3.2 - Opções "15 e 16": mostra nome dos arquivos, tipo e tamnhos após o upload;
   
-  3.3 - Opção "18. Mostrar arquivo de conteúdo": abre e mostra o conteúdo do arquivo escolhido através da id;
-
-  ## Tabelas
+  3.3 - Opção "18. Mostrar arquivo de conteúdo": abre e mostra o conteúdo do arquivo escolhido através da id.
