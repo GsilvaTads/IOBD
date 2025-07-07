@@ -1,6 +1,6 @@
 # Instruções para rodar código:
 
-1 - rodar o script "edulivre.sql" o qual esta localizado em "EduLivre/src/main/resourses", neste terá já alguns registros prontos(usuários, cursos, comentários, matrículas);
+### 1 - rodar o script "edulivre.sql" o qual esta localizado em "EduLivre/src/main/resourses", neste terá já alguns registros prontos(usuários, cursos, comentários, matrículas);
 
 2 - após conectar ao BD "edulivre", rodar o código através do arquivo "EduLivre/src/main/java/apresentacao/Main.java" ondde no console abrirá um menu com opçõies;
 
